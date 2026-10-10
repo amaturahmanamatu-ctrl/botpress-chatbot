@@ -1,2 +1,1 @@
-# botpress-chatbot
-self-taught chatbot built with Botpress that [automates customer support / answers FAQs / handles orders] via [Telegram / web chat / etc.].
+I built this bot from scratch to help users find answers to common questions" or "automate a repetitive task"]. I taught myself how to use Botpress, JavaScript, and API integrations by reading documentation and watching tutorials.
