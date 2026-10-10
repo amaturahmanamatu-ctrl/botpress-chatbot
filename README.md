@@ -1,1 +1,2 @@
 I built this bot from scratch to help users find answers to common questions" or "automate a repetitive task"]. I taught myself how to use Botpress, JavaScript, and API integrations by reading documentation and watching tutorials.
+https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/08/20/07/20260820073147-FFMBXZYN.json
